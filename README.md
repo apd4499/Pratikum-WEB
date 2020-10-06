@@ -1,2 +1,1 @@
 # latihan
-web
